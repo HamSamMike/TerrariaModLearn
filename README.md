@@ -1,2 +1,2 @@
 # TerrariaModLearn
-#I think this is the most interesting things in my C# learing.
+#I think this is the most interesting thing in my C# learing.
